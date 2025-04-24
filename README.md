@@ -32,7 +32,6 @@ Zomato-market-analysis/
 │   └── Analysis of Restaurants In India.pbix
 ├── images/                       # Visuals/screenshots for README
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
@@ -59,11 +58,11 @@ Zomato-market-analysis/
 
 ## 🖼️ Visual Preview
 
-📌 *Screenshots from the dashboard and notebook:*
+📌 *Click any image to view it in full size:*
 
-![Rating Distribution](images/ratings.png)  
-![Top Cities](images/best_by_city.png)  
-![Price vs Ratings](images/pr.png)
+[![Rating Distribution](images/ratings.png)](images/ratings.png)  
+[![Top Cities](images/best_by_city.png)](images/best_by_city.png)  
+[![Price vs Ratings](images/pr.png)](images/pr.png)
 
 ---
 
@@ -78,13 +77,7 @@ Unzip to access:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Acknowledgements
 
-- Dataset inspired by Zomato's public listings
-- Visual styling and techniques inspired by real-world business analytics dashboards
+This project was adapted from a public example that is no longer available online.  
+All content has been restructured, cleaned, and repurposed for educational and portfolio use only.
