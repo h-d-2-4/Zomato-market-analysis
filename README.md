@@ -58,11 +58,10 @@ Zomato-market-analysis/
 
 ## 🖼️ Visual Preview
 
-📌 *Click any image to view it in full size:*
-
-[![Rating Distribution](images/ratings.png)](images/ratings.png)  
-[![Top Cities](images/best_by_city.png)](images/best_by_city.png)  
-[![Price vs Ratings](images/pr.png)](images/pr.png)
+📌 Visualizations from the analysis include:
+- Ratings distribution
+- Top cities by performance
+- Relationship between pricing and ratings
 
 ---
 
